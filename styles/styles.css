@@ -1,0 +1,15 @@
+body{
+    background: skyblue url(/images/webdev.jpeg) repeat-x fixed ;
+}
+p{
+    color: yellowgreen;
+    margin: 3px;
+    padding: 3px;
+    text-shadow: 4px 2px 4px;
+    border: 2px ridge red;
+    border-radius: 4px;
+}
+h2{
+    color: brown;
+    
+}
