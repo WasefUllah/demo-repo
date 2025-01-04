@@ -1,5 +1,5 @@
 body{
-    background: skyblue url(../images/webdev.jpeg) repeat-x fixed ;
+    background: skyblue url(..images/webdev.jpeg) repeat-x fixed ;
 }
 p{
     color: yellowgreen;
